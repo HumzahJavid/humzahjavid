@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="140" height="20">
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="20">
     <linearGradient id="b" x2="0" y2="100%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
         <stop offset="1" stop-opacity=".1"/>
     </linearGradient>
     <mask id="anybadge_9">
-        <rect width="140" height="20" rx="3" fill="#fff"/>
+        <rect width="98" height="20" rx="3" fill="#fff"/>
     </mask>
     <g mask="url(#anybadge_9)">
         <path fill="#555" d="M0 0h73v20H0z"/>
-        <path fill="#FF00FF" d="M73 0h67v20H73z"/>
-        <path fill="url(#b)" d="M0 0h140v20H0z"/>
+        <path fill="#9f9f9f" d="M73 0h25v20H73z"/>
+        <path fill="url(#b)" d="M0 0h98v20H0z"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
         <text x="37.5" y="15" fill="#010101" fill-opacity=".3">tests total</text>
         <text x="36.5" y="14">tests total</text>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="107.5" y="15" fill="#010101" fill-opacity=".3"> unknown </text>
-        <text x="106.5" y="14"> unknown </text>
+        <text x="86.5" y="15" fill="#010101" fill-opacity=".3"> 2 </text>
+        <text x="85.5" y="14"> 2 </text>
     </g>
 </svg>
