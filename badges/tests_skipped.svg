@@ -9,7 +9,7 @@
     </mask>
     <g mask="url(#anybadge_8)">
         <path fill="#555" d="M0 0h91v20H0z"/>
-        <path fill="#4c1" d="M91 0h25v20H91z"/>
+        <path fill="#dfb317" d="M91 0h25v20H91z"/>
         <path fill="url(#b)" d="M0 0h116v20H0z"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
@@ -17,7 +17,7 @@
         <text x="45.5" y="14">tests skipped</text>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="104.5" y="15" fill="#010101" fill-opacity=".3"> 0 </text>
-        <text x="103.5" y="14"> 0 </text>
+        <text x="104.5" y="15" fill="#010101" fill-opacity=".3"> 1 </text>
+        <text x="103.5" y="14"> 1 </text>
     </g>
 </svg>
